@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UIDesign</string>
+    <string name="country_prompt">Select country</string>
+    <string name="tandc">I agree to <a href="#" color="@android:color/ black">terms and conditions</a></string>
+
+    <string-array name="country_arrays">
+        <item>Select Country</item>
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>
